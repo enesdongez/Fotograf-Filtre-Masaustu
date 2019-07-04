@@ -1,0 +1,24 @@
+c:\users\enesd_000\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.exe
+c:\users\enesd_000\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.pdb
+c:\users\enesd_000\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csprojResolveAssemblyReference.cache
+c:\users\enesd_000\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Form1.resources
+c:\users\enesd_000\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Properties.Resources.resources
+c:\users\enesd_000\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csproj.GenerateResource.Cache
+c:\users\enesd_000\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.exe
+c:\users\enesd_000\documents\visual studio 2015\Projects\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.pdb
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.exe
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.pdb
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.exe
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\bin\Debug\goruntuisleme.pdb
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csprojResolveAssemblyReference.cache
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Form1.resources
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.Properties.Resources.resources
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.csproj.GenerateResource.Cache
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\bin\Debug\AForge.Imaging.dll
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\bin\Debug\AForge.dll
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\bin\Debug\AForge.Math.dll
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\bin\Debug\AForge.Imaging.xml
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\bin\Debug\AForge.xml
+C:\Users\enesd_000\Desktop\görüntü işleme\goruntuisleme\goruntuisleme\bin\Debug\AForge.Math.xml
+C:\Users\enesd_000\Desktop\Yeni klasör\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.exe
+C:\Users\enesd_000\Desktop\Yeni klasör\goruntuisleme\goruntuisleme\obj\Debug\goruntuisleme.pdb
