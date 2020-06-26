@@ -1,0 +1,20 @@
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\bin\Debug\Steganography.exe
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\bin\Debug\Steganography.pdb
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\obj\x86\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\obj\x86\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\EnesDongez\Desktop\stenografi\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\bin\Debug\Steganography.exe
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\bin\Debug\Steganography.pdb
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\obj\x86\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\obj\x86\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\EnesDongez\Desktop\Dersler\2019-2020 Bahar Dönemi\Siber Güvenlik\Stenografi\stenografi\Steganography\obj\x86\Debug\Steganography.pdb
